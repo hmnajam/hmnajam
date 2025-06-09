@@ -1,7 +1,7 @@
 ![Logo](/favicon.ico)  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+Web+Apps+%26+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=CA0AB3&style=flat" alt="ridanaz" /> 
+  <img src="https://komarev.com/ghpvc/?username=hmnajam&label=Profile%20views&color=CA0AB3&style=flat" alt="hmnajam" /> 
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
 - 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
 - 💻 **Full Stack Developer** | **Chatbot Developer**  
-- 🔗 Portfolio: [**Rida Naz Portfolio**](https://ridanaz.vercel.app/)  
+- 🔗 Portfolio: [**Najam's Portfolio**](https://najam.pk/)  
 - 📬 Reach me at: *rnaz3414@gmail.com* 
 - 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms
 - ⚡ Building projects with **Openai SDK, Google ADK, Next.js 15, Tailwind CSS, FastAPI, LangGraph, CrewAI,** and more...
@@ -45,13 +45,13 @@
   <a href="https://medium.com/@rnaz3414" target="_blank">
     <img src="https://img.shields.io/badge/Medium-171515?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ridanaz67">
+  <a href="https://linkedin.com/in/hmnajam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rnaz3414@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://x.com/RidaNaz80744774">
+  <a href="https://x.com/hmnajam">
     <img src="https://img.shields.io/badge/X.com-171515?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
@@ -69,14 +69,14 @@
 
   <!-- Streak Stats (customized to match GitHub Stats colors) -->
   <a href="#">
-    <img alt="Rida Naz GitHub Streak" src="https://streak-stats.demolab.com?user=RidaNaz&theme=react&hide_border=true&background=0D1117&title_color=FF1493&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" height="200px" width="450px" />
+    <img alt="Najam's GitHub Streak" src="https://streak-stats.demolab.com?user=hmnajam&theme=react&hide_border=true&background=0D1117&title_color=FF1493&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" height="200px" width="450px" />
   </a>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
   <!-- Top Languages -->
   <a href="#">
-    <img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
+    <img alt="Najam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmnajam&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
   </a>
 </div>
 
