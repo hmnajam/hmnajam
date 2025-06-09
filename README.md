@@ -82,7 +82,7 @@
 
 <br />
 
-![Rida's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=RidaNaz&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+![Najam's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=hmnajam&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
 ### <h2 align="center">💡 *Transforming Ideas into Scalable Web & AI Solutions!* ✨</h2>
