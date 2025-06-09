@@ -6,8 +6,8 @@
 
 ---
  
-</br>
-<img align="right" alt="Coding" height="320" width="300" src="/RidaProfileGIF.gif" />
+<!-- </br>
+<img align="right" alt="Coding" height="320" width="300" src="/RidaProfileGIF.gif" /> -->
 
 ### About Me 
 
@@ -42,13 +42,13 @@
 <h2> 🌐 Connect with Me </h2> 
 
 <p align="center">
-  <a href="https://medium.com/@rnaz3414" target="_blank">
+  <a href="https://medium.com/@hmnajam" target="_blank">
     <img src="https://img.shields.io/badge/Medium-171515?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/hmnajam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:rnaz3414@gmail.com">
+  <a href="mailto:hmnajam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://x.com/hmnajam">
