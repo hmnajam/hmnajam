@@ -15,7 +15,7 @@
 - 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
 - 💻 **Full Stack Developer** | **Chatbot Developer**  
 - 🔗 Portfolio: [**Najam's Portfolio**](https://najam.pk/)  
-- 📬 Reach me at: *rnaz3414@gmail.com* 
+- 📬 Reach me at: *hmnajam@gmail.com* 
 - 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms
 - ⚡ Building projects with **Openai SDK, Google ADK, Next.js 15, Tailwind CSS, FastAPI, LangGraph, CrewAI,** and more...
 
