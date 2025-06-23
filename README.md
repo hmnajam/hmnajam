@@ -74,6 +74,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmnajam&theme=react&hide_border=true" alt="GitHub Streak" />
 
   </a>
+
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hmnajam)](https://git.io/streak-stats) -->
+
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
