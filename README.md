@@ -58,7 +58,7 @@
 
 ---
 
-<h2>:label: Github Stats</h2>
+<h2>Github Stats</h2>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
@@ -69,7 +69,10 @@
 
   <!-- Streak Stats (customized to match GitHub Stats colors) -->
   <a href="#">
-    <img alt="Najam's GitHub Streak" src="https://streak-stats.demolab.com?user=hmnajam&theme=react&hide_border=true&background=0D1117&title_color=FF1493&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" height="200px" width="450px" />
+    <!-- <img alt="Najam's GitHub Streak" src="https://streak-stats.demolab.com?user=hmnajam&theme=react&hide_border=true&background=0D1117&title_color=FF1493&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" height="200px" width="450px" /> -->
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmnajam&theme=react&hide_border=true" alt="GitHub Streak" />
+
   </a>
 </div>
 
